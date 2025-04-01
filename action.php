@@ -26,7 +26,7 @@
         return $data;
     }
 
-    $data = date("Y-m-d");
+    $data = date("2025-01-22");
 
     echo "Il mese nella data è: " . trovaMese($data);
 
